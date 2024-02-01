@@ -1,5 +1,5 @@
-# Full-stack---Twitch-Clone
-Build a Livestream App With Next.js | Twitch Clone
+# Disney-Clone---NextJS
+Build Disney+ with NEXT.JS 14 (Microsoft Azure, Caching, OpenAI, Shadcn, Tailwind, TS)
 
 ## Installation
  -- npx create-next-app@latest disney-clone
