@@ -11,10 +11,14 @@ Build Disney+ with NEXT.JS 14 (Microsoft Azure, Caching, OpenAI, Shadcn, Tailwin
 ### Components in Shadcn that needed to be installed in this app
 - npx shadcn-ui@latest add button
 - npm install next-themes
+- npx shadcn-ui@latest add dropdown-menu
+- npm install @radix-ui/react-icons
+- npx shadcn-ui@latest add form
+- npx shadcn-ui@latest add input
 
 
 ### Start the App
 - Start up the app in Dev mode: On Terminal, npm run dev/ yarn dev
 
 ### Step 1
- -- Create wild card search[term]
+- Create wild card search[term]
